@@ -31,7 +31,7 @@ body{
     border-radius: 12px;
 }
 
-#main h2{
+#main h1{
     font-size: 22px;
     color: var(--color-darkBlue);
     margin: 5% 0% 4%;
